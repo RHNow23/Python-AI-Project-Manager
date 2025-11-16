@@ -1,4 +1,5 @@
 Project Manager Python+AI Invert always Invert from Copilot
+
 You said
 what does charlie mungers quote "invert, always invert" mean
 Copilot said
