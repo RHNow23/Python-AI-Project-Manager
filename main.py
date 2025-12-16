@@ -3,6 +3,8 @@ from core import todo, records, planner
 from ai import models, validators
 from db import db_manager
 
+
+
 def show_menu():
     print("\n=== Project Manager AI ===")
     print("1. Manage To-Do List")
